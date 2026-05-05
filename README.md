@@ -63,6 +63,8 @@ npm run build
 }
 ```
 
+<img width="866" height="571" alt="Image" src="https://github.com/user-attachments/assets/fc022c8a-6a14-43e5-ac25-4e04a6629192" />
+
 ## 開発
 
 ### ビルド
